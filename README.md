@@ -8,7 +8,8 @@ I forked this repo from [Andy Thorne](https://github.com/andythorne) to add in h
  on maintaining this fork specifically for my projects and will update it as needed. As such, the versioning for this 
 project will change to reflect it as mine, but it was originally based on version 0.5.1-SNAPSHOT.
 
-I've updated the pull for the username to remove discords discriminator and added a pull for the users discord id.
+I've updated the pull for the username to remove discords discriminator and added a pull for the users discord id and 
+avatar hash.
 
 ## Install
 
